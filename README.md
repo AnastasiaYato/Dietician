@@ -1,2 +1,2 @@
 # Dietician
-2 Rok 1 Semestr - Projekt zaliczeniowy JAVA, aplikacja konsolowa
+2 Rok 1 Semestr - Projekt zaliczeniowy JAVA, aplikacja konsolowa (I/O)
